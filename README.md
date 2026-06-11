@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Paulo 👋
+# Olá, eu sou o Paulo Bidu 👋
 
 **Analista de Sistemas @ Ribal** · Especializando em Ciência de Dados & IA (IESB) · Graduado em ADS
 
