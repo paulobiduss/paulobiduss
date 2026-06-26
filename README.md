@@ -34,6 +34,7 @@ Entusiasta de IA e programação com IA 🚀
 
 | Projeto | Descrição |
 | --- | --- |
+| [Web Process Manager](https://github.com/paulobiduss/Web-Process-Manager) | Aplicativo Windows (Electron) que varre as portas TCP em escuta, identifica automaticamente os servidores de aplicação que você subiu|
 | [Barra_IA](https://github.com/paulobiduss/Barra_IA) | App de bandeja (system tray) para Windows que mostra o consumo de cota de Claude e Codex |
 | [PomodoroTimer](https://github.com/paulobiduss/PomodoroTimer) | Aplicativo de timer Pomodoro |
 | [Exploracao-de-dados-NBA](https://github.com/paulobiduss/Exploracao-de-dados-NBA) | Exploração de dados para responder quem foi o jogador mais eficiente da temporada 2023-2024 da NBA |
