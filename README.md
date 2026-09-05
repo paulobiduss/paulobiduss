@@ -45,8 +45,8 @@ Entusiasta de IA e programação com IA 🚀
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=paulobiduss&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobiduss&layout=compact&hide_border=true)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulobiduss&theme=github)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulobiduss&theme=github)
 
 </div>
 
@@ -55,3 +55,4 @@ Entusiasta de IA e programação com IA 🚀
 <div align="center">
 <sub>Perfil mantido com ajuda do Claude Code e Codex 🤝</sub>
 </div>
+
